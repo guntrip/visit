@@ -1,2 +1,11 @@
-# visit
-Places around the world that I would like to visit
+# where should @stevecat visit?
+
+Any suggestions?
+
+## Europe
+
+## Asia-Pacific
+
+## Americas
+
+## Africa
