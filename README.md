@@ -4,8 +4,8 @@ Any suggestions?
 
 ## Europe :euro:
 
-* [ ] Paris, France :fr:
-* [ ] Athens, Greece 
+* [x] Paris, France :fr:
+* [x] Athens, Greece 
 * [ ] Berlin, Germany :de:
 * [ ] Amsterdam, Netherlands
 * [ ] Edinburgh, Scotland :uk:
