@@ -2,13 +2,13 @@
 
 Any suggestions?
 
-## Europe
+## Europe :euro:
 
-* [ ] Paris, France
-* [ ] Athens, Greece
-* [ ] Berlin, Germany
+* [ ] Paris, France :fr:
+* [ ] Athens, Greece 
+* [ ] Berlin, Germany :de:
 * [ ] Amsterdam, Netherlands
-* [ ] Edinburgh, Scotland
+* [ ] Edinburgh, Scotland :uk:
 
 ## Asia-Pacific
 
