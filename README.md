@@ -7,7 +7,7 @@ Any suggestions?
 * [x] Paris, France :fr:
 * [x] Athens, Greece 
 * [ ] Berlin, Germany :de:
-* [ ] Amsterdam, Netherlands
+* [x] Amsterdam, Netherlands
 * [ ] Edinburgh, Scotland :uk:
 
 ## Asia-Pacific
