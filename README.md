@@ -6,7 +6,7 @@ Any suggestions?
 
 * [x] Paris, France :fr:
 * [x] Athens, Greece 
-* [ ] Berlin, Germany :de:
+* [x] Berlin, Germany :de:
 * [ ] Amsterdam, Netherlands
 * [ ] Edinburgh, Scotland :uk:
 
